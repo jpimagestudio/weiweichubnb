@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20995" appversion="7.1.9" start="node57" hassounds="1">
+  <panorama id="node57">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="145.672">
+      <start tilt="-45.75" pan="-1.16" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.8"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node57" copyright="" info="" tags="" comment="" latitude="24.77417604" longitude="121.77602022" heading="145.672" title="空景"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-43.08" skinid="ht_node" description="" url="{node59}" pan="-315.15" title="行車入口" id="Point01" target="$fwd"/>
+      <hotspot tilt="-57.31" skinid="ht_node" description="" url="{node9}" pan="-3.39" title="住宿出入口" id="Point02" target="$fwd"/>
+      <hotspot tilt="-41.98" skinid="ht_node" description="" url="{node56}" pan="-48.19" title="戶外戲水池" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-30.7098">
+      <start tilt="-0.81" pan="-175.31" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node9" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-30.7098" title="住宿出入口"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-0.17" skinid="ht_node" description="" url="{node10}" pan="-171.19" title="入口換鞋區" id="Point01" target="$fwd"/>
+      <hotspot tilt="-0.06" skinid="ht_node" description="" url="{node5}" pan="-262.98" title="戶外走道" id="Point02" target="$fwd"/>
+      <hotspot tilt="-0.12" skinid="ht_node" description="" url="{node59}" pan="-89.51" title="行車入口" id="Point03" target="$fwd"/>
+      <hotspot tilt="22.76" skinid="ht_node" description="" url="{node57}" pan="-356.55" title="空景" id="Point04" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="122.006">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node10" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="122.006" title="入口換鞋區"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-0.08" skinid="ht_node" description="" url="{node4}" pan="-277" title="長桌區" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.46" skinid="ht_node" description="" url="{node11}" pan="-349.92" title="2F 樓梯間" id="Point02" target="$fwd"/>
+      <hotspot tilt="-5.51" skinid="ht_node" description="" url="{node9}" pan="-179.43" title="住宿出入口" id="Point03" target=""/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="186.235">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node4" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="186.235" title="長桌區"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0.36" skinid="ht_node" description="" url="{node10}" pan="-46.16" title="入口換鞋區" id="Point01" target="$fwd"/>
+      <hotspot tilt="0.06" skinid="ht_node" description="" url="{node8}" pan="-248.65" title="客廳" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="58.3681">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node8" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="58.3681" title="客廳"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-0.4" skinid="ht_node" description="" url="{node4}" pan="-199.94" title="長桌區" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-226.994">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node5" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-226.994" title="戶外走道"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="0.06" skinid="ht_node" description="" url="{node9}" pan="-284.06" title="住宿出入口" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.82" skinid="ht_node" description="" url="{node16}" pan="-0.0999915" title="101 極簡友善寵物房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-11.37" skinid="ht_node" description="" url="{node18}" pan="-24.7" title="102 少女心房" id="Point03" target="$fwd"/>
+      <hotspot tilt="-0.28" skinid="ht_node" description="" url="{node56}" pan="-94.63" title="戶外戲水池" id="Point04" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node56">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="230.818">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node56" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="230.818" title="戶外戲水池"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-0.17" skinid="ht_node" description="" url="{node55}" pan="-2.13" title="露營區" id="Point01" target="$fwd"/>
+      <hotspot tilt="0" skinid="ht_node" description="" url="{node5}" pan="-182.2" title="戶外走道" id="Point02" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node55">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-142.714">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node55" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-142.714" title="露營區"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.48" skinid="ht_node" description="" url="{node56}" pan="-192.9" title="戶外戲水池" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-68.502">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node16" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-68.502" title="101 極簡友善寵物房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.72" skinid="ht_node" description="" url="{node5}" pan="-22.09" title="戶外走道" id="Point01" target="$fwd"/>
+      <hotspot tilt="-15.78" skinid="ht_node" description="" url="{node13}" pan="-207.93" title="101 極簡友善寵物房" id="Point02" target="$fwd"/>
+      <hotspot tilt="0.06" skinid="ht_node" description="" url="{node15}" pan="-145.56" title="101 極簡友善寵物房" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="20.4104">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="客廳" customnodeid="" author="" nodeid="node15" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="20.4104" title="101 極簡友善寵物房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.69" skinid="ht_node" description="" url="{node16}" pan="-249.09" title="101 極簡友善寵物房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="45.9816">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node13" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="45.9816" title="101 極簡友善寵物房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-15.97" skinid="ht_node" description="" url="{node16}" pan="-279.3" title="101 極簡友善寵物房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="199.805">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node18" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="199.805" title="102 少女心房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.91" skinid="ht_node" description="" url="{node17}" pan="-0.34" title="102 少女心房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.7" skinid="ht_node" description="" url="{node5}" pan="-139.95" title="戶外走道" id="Point02" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="180.46">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="客廳" customnodeid="" author="" nodeid="node17" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="180.46" title="102 少女心房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.48" skinid="ht_node" description="" url="{node18}" pan="-192.25" title="102 少女心房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.35" skinid="ht_node" description="" url="{node19}" pan="-275.7" title="102 少女心房" id="Point02" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="82.9462">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node19" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="82.9462" title="102 少女心房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.8" skinid="ht_node" description="" url="{node17}" pan="-189.41" title="102 少女心房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="140.415">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node11" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="140.415" title="2F 樓梯間"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-17.64" skinid="ht_node" description="" url="{node10}" pan="-18.13" title="入口換鞋區" id="Point01" target="$fwd"/>
+      <hotspot tilt="-13.51" skinid="ht_node" description="" url="{node58}" pan="-320.63" title="3F 樓梯間" id="Point02" target="$fwd"/>
+      <hotspot tilt="-21.69" skinid="ht_node" description="203 極簡風四人房" url="{node31}" pan="-92.87" title="203 極簡風四人房" id="Point04" target="4.8/-0.6/130.0"/>
+      <hotspot tilt="4.84" skinid="ht_node" description="204 小歐洲雙人房" url="{node35}" pan="-92.49" title="204 小歐洲雙人房" id="Point05" target="-87.7/0.2/130.0"/>
+      <hotspot tilt="-14.93" skinid="ht_node" description="" url="{node29}" pan="-269.56" title="202 美國夢雙人房" id="Point03" target="$fwd"/>
+      <hotspot tilt="0.32" skinid="ht_node" description="" url="{node24}" pan="-269.78" title="201 放輕鬆四人房" id="Point06" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-89.631">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node12" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-89.631" title="2F 戶外陽台"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-22.95" skinid="ht_node" description="" url="{node11}" pan="-188.1" title="2F 樓梯間" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-225.295">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node24" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-225.295" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.82" skinid="ht_node" description="" url="{node25}" pan="-258.46" title="201 放輕鬆四人房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.71" skinid="ht_node" description="" url="{node26}" pan="-357.85" title="201 放輕鬆四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-11.3" skinid="ht_node" description="" url="{node11}" pan="-100.49" title="2F 樓梯間" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="176.063">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="走道" customnodeid="" author="" nodeid="node25" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="176.063" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.68" skinid="ht_node" description="" url="{node23}" pan="-110.19" title="201 放輕鬆四人房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.71" skinid="ht_node" description="" url="{node22}" pan="-286.22" title="201 放輕鬆四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-14.36" skinid="ht_node" description="" url="{node24}" pan="-51.6" title="201 放輕鬆四人房" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-136.609">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="臥床" customnodeid="" author="" nodeid="node22" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-136.609" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-12.25" skinid="ht_node" description="" url="{node25}" pan="-86.84" title="201 放輕鬆四人房" id="Point01" target="-132.2/-0.4/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="37.6775">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="和室" customnodeid="" author="" nodeid="node23" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="37.6775" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.6" skinid="ht_node" description="" url="{node21}" pan="-352.8" title="201 放輕鬆四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-18.73" skinid="ht_node" description="" url="{node25}" pan="-78.6" title="201 放輕鬆四人房" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node21">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-148.615">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="戶外陽台" customnodeid="" author="" nodeid="node21" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-148.615" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.68" skinid="ht_node" description="" url="{node23}" pan="-355.19" title="201 放輕鬆四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="30.5505">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node26" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="30.5505" title="201 放輕鬆四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.93" skinid="ht_node" description="" url="{node24}" pan="-283.74" title="201 放輕鬆四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node29" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="202 美國夢雙人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="5.24" skinid="ht_node" description="" url="{node12}" pan="-150.8" title="2F 戶外陽台" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.57" skinid="ht_node" description="" url="{node28}" pan="-291.01" title="202 美國夢雙人房" id="Point03" target="$fwd"/>
+      <hotspot tilt="-15.16" skinid="ht_node" description="" url="{node11}" pan="-151.61" title="2F 樓梯間" id="Point02" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node28" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="202 美國夢雙人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-9.6" skinid="ht_node" description="" url="{node29}" pan="-162.42" title="202 美國夢雙人房" id="Point01" target="-146.8/0.7/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node31" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="203 極簡風四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-12.04" skinid="ht_node" description="" url="{node11}" pan="-229.37" title="2F 樓梯間" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.47" skinid="ht_node" description="" url="{node32}" pan="-54.24" title="203 極簡風四人房" id="Point02" target="171.0/1.3/130.0"/>
+      <hotspot tilt="-9.99" skinid="ht_node" description="" url="{node30}" pan="-328.17" title="203 極簡風四人房" id="Point03" target="-33.4/-0.4/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="臥床" customnodeid="" author="" nodeid="node30" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="203 極簡風四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.38" skinid="ht_node" description="" url="{node31}" pan="-222.02" title="203 極簡風四人房" id="Point01" target="173.9/-1.3/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node32" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="203 極簡風四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.27" skinid="ht_node" description="" url="{node31}" pan="-0.46" title="203 極簡風四人房" id="Point01" target="136.2/-0.8/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="126.945">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node35" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="126.945" title="204 小歐洲雙人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-0.68" skinid="ht_node" description="" url="{node11}" pan="-260.23" title="2F 樓梯間" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11.6" skinid="ht_node" description="" url="{node33}" pan="-3.43" title="204 小歐洲雙人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-11.93" skinid="ht_node" description="" url="{node36}" pan="-86.25" title="204 小歐洲雙人房" id="Point04" target="$fwd"/>
+      <hotspot tilt="-21.16" skinid="ht_node" description="" url="{node31}" pan="-260.69" title="203 極簡風四人房" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="59.5247">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node33" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="59.5247" title="204 小歐洲雙人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.91" skinid="ht_node" description="" url="{node35}" pan="-246.47" title="204 小歐洲雙人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2048" levelbias="0.400" overlap="1" height="2048" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2048" predecode="0" width="2048" preload="0"/>
+      <level height="1024" predecode="0" width="1024" preload="0"/>
+      <level height="512" predecode="0" width="512" preload="0"/>
+      <level height="256" predecode="1" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-10.8303">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="客廳" customnodeid="" author="" nodeid="node36" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-10.8303" title="204 小歐洲雙人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.93" skinid="ht_node" description="" url="{node35}" pan="-51.6" title="204 小歐洲雙人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node58">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1380" levelbias="0.400" overlap="1" height="1380" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1380" predecode="0" width="1380" preload="0"/>
+      <level height="690" predecode="0" width="690" preload="0"/>
+      <level height="345" predecode="1" width="345" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-56.1458">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node58" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-56.1458" title="3F 樓梯間"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.82" skinid="ht_node" description="" url="{node11}" pan="-152.57" title="2F 樓梯間" id="Point01" target="$fwd"/>
+      <hotspot tilt="-12.46" skinid="ht_node" description="" url="{node50}" pan="-277.06" title="302 熊出沒四人房" id="Point02" target="5.8/-1.5/130.0"/>
+      <hotspot tilt="-1.28" skinid="ht_node" description="" url="{node37}" pan="-90.34" title="301 童趣象四人房" id="Point03" target="-22.0/-0.5/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="17.3867">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node37" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="17.3867" title="301 童趣象四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-8.59" skinid="ht_node" description="" url="{node45}" pan="-20" title="301 童趣象四人房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-24.68" skinid="ht_node" description="" url="{node58}" pan="-214.55" title="3F 樓梯間" id="Point02" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node45">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="39.6563">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="陽台出口" customnodeid="" author="" nodeid="node45" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="39.6563" title="301 童趣象四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.82" skinid="ht_node" description="" url="{node43}" pan="-356.03" title="301 童趣象四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-10.31" skinid="ht_node" description="" url="{node44}" pan="-47.31" title="301 童趣象四人房" id="Point03" target="127.0/0.2/130.0"/>
+      <hotspot tilt="-8.38" skinid="ht_node" description="" url="{node37}" pan="-187.09" title="301 童趣象四人房" id="Point04" target="$fwd"/>
+      <hotspot tilt="-11.75" skinid="ht_node" description="" url="{node38}" pan="-138.75" title="301 童趣象四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-145.419">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="臥床" customnodeid="" author="" nodeid="node38" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-145.419" title="301 童趣象四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.3" skinid="ht_node" description="" url="{node45}" pan="-158.56" title="301 童趣象四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node43">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-142.158">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="陽台" customnodeid="" author="" nodeid="node43" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-142.158" title="301 童趣象四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.62" skinid="ht_node" description="" url="{node45}" pan="-7.3" title="301 童趣象四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node44">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="125.398">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node44" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="125.398" title="301 童趣象四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.49" skinid="ht_node" description="" url="{node45}" pan="-91.66" title="301 童趣象四人房" id="Point02" target="92.2/0.2/130.0"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node50">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="216.511">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="入口" customnodeid="" author="" nodeid="node50" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="216.511" title="302 熊出沒四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-8.62" skinid="ht_node" description="" url="{node49}" pan="-292.95" title="302 熊出沒四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-12.87" skinid="ht_node" description="" url="{node54}" pan="-342.67" title="302 熊出沒四人房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-8.99" skinid="ht_node" description="" url="{node58}" pan="-172.76" title="3F 樓梯間" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node49">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="129.921">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="臥床" customnodeid="" author="" nodeid="node49" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="129.921" title="302 熊出沒四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-11.49" skinid="ht_node" description="" url="{node50}" pan="-203.02" title="302 熊出沒四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node54">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="215.821">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node54" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="215.821" title="302 熊出沒四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-7.44" skinid="ht_node" description="" url="{node47}" pan="-337.99" title="302 熊出沒四人房" id="Point01" target="$fwd"/>
+      <hotspot tilt="-11" skinid="ht_node" description="" url="{node52}" pan="-17.93" title="302 熊出沒四人房" id="Point02" target="$fwd"/>
+      <hotspot tilt="-13.87" skinid="ht_node" description="" url="{node50}" pan="-163.45" title="302 熊出沒四人房" id="Point03" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node47">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-140.513">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="浴室" customnodeid="" author="" nodeid="node47" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="-140.513" title="302 熊出沒四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-8.82" skinid="ht_node" description="" url="{node54}" pan="-106.17" title="302 熊出沒四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node52">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" levelbias="0.400" overlap="1" height="1520" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="1520" predecode="0" width="1520" preload="0"/>
+      <level height="760" predecode="0" width="760" preload="0"/>
+      <level height="380" predecode="1" width="380" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="211.487">
+      <start tilt="0" pan="0" fov="130" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="1" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="陽台" customnodeid="" author="" nodeid="node52" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="211.487" title="302 熊出沒四人房"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-10.76" skinid="ht_node" description="" url="{node54}" pan="-183.75" title="302 熊出沒四人房" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node59">
+    <input levelbiashidpi="1.000" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000" levelbias="0.400" overlap="1" cylinder="1" flat="1" height="2000" levelingpitch="0" levelingroll="0" leveltilesize="510">
+      <level height="2000" predecode="0" width="3000" preload="0"/>
+      <level height="1000" predecode="0" width="1500" preload="0"/>
+      <level height="500" predecode="0" width="750" preload="0"/>
+      <level height="250" predecode="1" width="375" preload="1"/>
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start tilt="0" pan="0" fov="130"/>
+      <min tilt="-90" pan="0" fovpixel="0.3"/>
+      <max tilt="90" fovstereographic="330" pan="360" fovfisheye="360" scaletofit="0" fov="120"/>
+    </view>
+    <userdata datetime="" source="" description="" customnodeid="" author="" nodeid="node59" copyright="" info="" tags="" comment="" latitude="" longitude="" heading="0" title="行車入口"/>
+    <hotspots height="20" width="180" smoothmovement="0" wordwrap="1">
+      <label width="180" bordercolor="0x000000" backgroundalpha="1" borderalpha="1" height="20" background="1" textcolor="0x000000" textalpha="1" backgroundcolor="0xffffff" border="1" borderradius="1" wordwrap="1" enabled="1"/>
+      <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
+      <hotspot tilt="-4.64" skinid="ht_node" description="" url="{node9}" pan="-15.14" title="住宿出入口" id="Point01" target="$fwd"/>
+    </hotspots>
+    <media>
+      <sound tilt="-1.000" nodechangekeep="1" startmutedmobile="0" level="0.700" pan="-1.000" pansize="10.000" tiltsize="10.000" mode="0" field="90.000" ambientlevel="0.000" id="_background" loop="0">
+        <source url="media/0215_My Achy Heart - Audio Hertz.mp3" mono="0"/>
+      </sound>
+    </media>
+    <transition zoomafteroutfov="40" type="crossdissolve" blendtime="1" delay="none" softedge="0" zoomafterinfov="140" zoomspeed="2" zoomin="0" zoomoutpause="1" zoomout="0" blendcolor="0x000000" enabled="1" zoomfov="40"/>
+    <animation syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0" animsequence="Animation01"/>
+    <control zoomcentercursor="1" sensitivity="8" invertwheel="0" lockedmouse="0" rubberband="0" dblclickfullscreen="0" hideabout="0" contextvr="1" simulatemass="1" lockedkeyboardzoom="0" contextprojections="0" lockedkeyboard="0" lockedwheel="0" invertcontrol="1" contextfullscreen="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="網址：https://weiweichubnb.twtravel.com.tw/index.php&#xa;地址：宜蘭縣壯圍鄉大福路三段270巷21號 (https://goo.gl/maps/5jueY1WK9CnwGfSHA)&#xa;訂房專線：+886932382745&#xa;E-MAIL   ： weiweichubnb@gmail.com&#xa;LINE ID    : @sgu6804g&#xa;合法編號 1306" comment="" title="宜蘭微圍住 庭園民宿" author="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
